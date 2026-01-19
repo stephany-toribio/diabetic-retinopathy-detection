@@ -1,4 +1,4 @@
-# 👁️ Detección de Retinopatía Diabética
+# 👁️ Diabetic Retinopathy Detection: Deep Learning Diagnostic App
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-App%20Deployment-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
